@@ -7,7 +7,7 @@
 </head>
 <body>
     <div align="center">
-        <img src="https://github.com/joaopaulocunhafaria/NextStudies/assets/138056835/9ec565f7-6acd-4750-97d3-f4b7e197dc08" alt="Next.js Logo"  width:"100px" height:"100px">
+        <img src="https://github.com/joaopaulocunhafaria/NextStudies/assets/138056835/9ec565f7-6acd-4750-97d3-f4b7e197dc08" alt="Next.js Logo"  height="100px" widhth="100px">
         <h1>Repositório de Estudos Next.js</h1>
         <p align="center">Bem-vindo ao repositório dedicado aos meus estudos do framework Next.js!</p>
         <h2>O que é o Next.js?</h2>
