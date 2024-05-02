@@ -25,6 +25,6 @@
         <h2>Como Contribuir</h2>
         <p align="center">Se você deseja contribuir com este repositório, sinta-se à vontade para abrir issues, enviar pull requests ou fornecer feedback. Todas as contribuições são bem-vindas!</p>
        
-    </div>
+</div>
 </body>
 </html>
